@@ -1,1 +1,10 @@
 # List of programs and description:
+
+1) dcd_load_vmd.sh initial.axsf trajectory.dcd
+Quick and fancy loading of a dcd trajectory in VMD
+
+2) bibcorrections.sh bibliograpy.bib
+Generate a new bibliografy with all the correction specified (e.g. special characters for LaTex and journal abbreviations).
+The old file is stored as bibliograpy.bib_old
+
+

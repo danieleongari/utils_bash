@@ -1,0 +1,570 @@
+
+
+@article{horcajada2010porous,
+  title={Porous metal-organic-framework nanoscale carriers as a potential platform for drug delivery and imaging},
+  author={Horcajada, Patricia and Chalati, Tamim and Serre, Christian and Gillet, Brigitte and Sebrie, Catherine and Baati, Tarek and Eubank, Jarrod F and Heurtaux, Daniela and Clayette, Pascal and Kreuz, Christine and others},
+  journal={Nature materials},
+  volume={9},
+  number={2},
+  pages={172--178},
+  year={2010},
+  publisher={Nature Publishing Group}
+}
+
+@article{li2009selective,
+  title={Selective gas adsorption and separation in metal--organic frameworks},
+  author={Li, Jian-Rong and Kuppler, Ryan J and Zhou, Hong-Cai},
+  journal={Chemical Society Reviews},
+  volume={38},
+  number={5},
+  pages={1477--1504},
+  year={2009},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{morris2008gas,
+  title={Gas storage in nanoporous materials},
+  author={Morris, Russell E and Wheatley, Paul S},
+  journal={Angewandte Chemie International Edition},
+  volume={47},
+  number={27},
+  pages={4966--4981},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+@article{liu2014applications,
+  title={Applications of metal--organic frameworks in heterogeneous supramolecular catalysis},
+  author={Liu, Jiewei and Chen, Lianfen and Cui, Hao and Zhang, Jianyong and Zhang, Li and Su, Cheng-Yong},
+  journal={Chemical Society Reviews},
+  volume={43},
+  number={16},
+  pages={6011--6061},
+  year={2014},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{corma1997microporous,
+  title={From microporous to mesoporous molecular sieve materials and their use in catalysis},
+  author={Corma, Avelino},
+  journal={Chemical reviews},
+  volume={97},
+  number={6},
+  pages={2373--2420},
+  year={1997},
+  publisher={ACS Publications}
+}
+
+%more than 10'000 ... and predicted
+@article{furukawa2013chemistry,
+  title={The chemistry and applications of metal-organic frameworks},
+  author={Furukawa, Hiroyasu and Cordova, Kyle E and O'Keeffe, Michael and Yaghi, Omar M},
+  journal={Science},
+  volume={341},
+  number={6149},
+  pages={1230444},
+  year={2013},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{wilmer2012large,
+  title={Large-scale screening of hypothetical metal--organic frameworks},
+  author={Wilmer, Christopher E and Leaf, Michael and Lee, Chang Yeon and Farha, Omar K and Hauser, Brad G and Hupp, Joseph T and Snurr, Randall Q},
+  journal={Nature Chemistry},
+  volume={4},
+  number={2},
+  pages={83--89},
+  year={2012},
+  publisher={Nature Publishing Group}
+}
+
+% Softwares
+@article{spek2003single,
+  title={Single-crystal structure validation with the program PLATON},
+  author={Spek, AL},
+  journal={Journal of Applied Crystallography},
+  volume={36},
+  number={1},
+  pages={7--13},
+  year={2003},
+  publisher={International Union of Crystallography}
+}
+
+@article{sarkisov2011computational,
+  title={Computational structure characterisation tools in application to ordered and disordered porous materials},
+  author={Sarkisov, Lev and Harrison, Alex},
+  journal={Molecular Simulation},
+  volume={37},
+  number={15},
+  pages={1248--1257},
+  year={2011},
+  publisher={Taylor \& Francis}
+}
+
+@article{willems2012algorithms,
+  title={Algorithms and tools for high-throughput geometry-based analysis of crystalline porous materials},
+  author={Willems, Thomas F and Rycroft, Chris H and Kazi, Michaeel and Meza, Juan C and Haranczyk, Maciej},
+  journal={Microporous and Mesoporous Materials},
+  volume={149},
+  number={1},
+  pages={134--141},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{dubbeldam10raspa,
+  title={RASPA 2.0: Molecular software package for adsorption and diffusion in (flexible) nanoporous materials},
+  author={Dubbeldam, D and Calero, S and Ellis, D and Snurr, R},
+  journal={Molecular Simulation},
+  volume={42},
+  number={2},
+  pages={81-101},
+  year={2016}
+}
+
+@incollection{verhoeven2001comparison,
+  title={Comparison of Dubinin--Radushkevich micropore volumes obtained from N2, CO2 and H2O adsorption isotherms},
+  author={Verhoeven, L and Lodewyckx, P},
+  booktitle={Carbon},
+  volume={2001},
+  year={2001},
+  publisher={American Carbon Society Lexington}
+}
+
+%parameters
+@article{rappe1992uff,
+  title={UFF, a full periodic table force field for molecular mechanics and molecular dynamics simulations},
+  author={Rapp{\'e}, Anthony K and Casewit, Carla J and Colwell, KS and Goddard, William A and Skiff, WM},
+  journal={J. Am. Chem. Soc.},
+  volume={114},
+  number={25},
+  pages={10024--10035},
+  year={1992}
+}
+
+@article{hirschfelder1964molecular,
+  title={Molecular theory of gases and liquids},
+  author={Hirschfelder, Joseph and Bird, R Byron and Curtiss, Charles F},
+  year={1964},
+  publisher={Wiley}
+}
+
+%(n2 radius)
+@article{bae2010evaluation,
+  title={Evaluation of the BET method for determining surface areas of MOFs and zeolites that contain ultra-micropores},
+  author={Bae, Youn-Sang and Yazayd{\i}n, A Özgür and Snurr, Randall Q},
+  journal={Langmuir},
+  volume={26},
+  number={8},
+  pages={5475--5483},
+  year={2010},
+  publisher={ACS Publications}
+}
+
+%tecniques
+@article{dubinin1989fundamentals,
+  title={Fundamentals of the theory of adsorption in micropores of carbon adsorbents: characteristics of their adsorption properties and microporous structures},
+  author={Dubinin, MM},
+  journal={Carbon},
+  volume={27},
+  number={3},
+  pages={457--467},
+  year={1989},
+  publisher={Elsevier}
+}
+
+@article{connolly1985computation,
+  title={Computation of molecular volume},
+  author={Connolly, Michael L},
+  journal={Journal of the American Chemical society},
+  volume={107},
+  number={5},
+  pages={1118--1124},
+  year={1985},
+  publisher={ACS Publications}
+}
+
+@article{van1996network,
+  title={Network approach to void percolation in a pack of unequal spheres},
+  author={Van der Marck, SC},
+  journal={Physical review letters},
+  volume={77},
+  number={9},
+  pages={1785},
+  year={1996},
+  publisher={APS}
+}
+
+@article{hoshen1976percolation,
+  title={Percolation and cluster distribution. I. Cluster multiple labeling technique and critical concentration algorithm},
+  author={Hoshen, Joseph and Kopelman, Raoul},
+  journal={Physical Review B},
+  volume={14},
+  number={8},
+  pages={3438},
+  year={1976},
+  publisher={APS}
+}
+
+@article{martin2012accelerating,
+  title={Accelerating analysis of void space in porous materials on multicore and GPU platforms},
+  author={Martin, Richard L and Prabhat and Donofrio, David D and Sethian, James A and Haranczyk, Maciej},
+  journal={The International Journal of High Performance Computing Applications},
+  volume={26},
+  number={4},
+  pages={347--357},
+  year={2012},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+%computational studies
+
+@article{sarkisov2015computational,
+  title={Computational structure characterization tools for the era of material informatics},
+  author={Sarkisov, Lev and Kim, Jihan},
+  journal={Chemical Engineering Science},
+  volume={121},
+  pages={322--330},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+
+@article{chung2014computation,
+  title={Computation-ready, experimental metal--organic frameworks: A tool to enable high-throughput screening of nanoporous crystals},
+  author={Chung, Yongchul G and Camp, Jeffrey and Haranczyk, Maciej and Sikora, Benjamin J and Bury, Wojciech and Krungleviciute, Vaiva and Yildirim, Taner and Farha, Omar K and Sholl, David S and Snurr, Randall Q},
+  journal={Chemistry of Materials},
+  volume={26},
+  number={21},
+  pages={6185--6192},
+  year={2014},
+  publisher={ACS Publications}
+}
+
+@article{groom2016cambridge,
+  title={The Cambridge structural database},
+  author={Groom, Colin R and Bruno, Ian J and Lightfoot, Matthew P and Ward, Suzanna C},
+  journal={Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials},
+  volume={72},
+  number={2},
+  pages={171--179},
+  year={2016},
+  publisher={International Union of Crystallography}
+}
+
+@article{watanabe2012accelerating,
+  title={Accelerating applications of metal--organic frameworks for gas adsorption and separation by computational screening of materials},
+  author={Watanabe, Taku and Sholl, David S},
+  journal={Langmuir},
+  volume={28},
+  number={40},
+  pages={14114--14128},
+  year={2012},
+  publisher={ACS Publications}
+}
+
+@article{sing1985reporting,
+  title={Reporting physisorption data for gas/solid systems with special reference to the determination of surface area and porosity},
+  author={Sing, Kenneth SW},
+  journal={Pure and applied chemistry},
+  volume={57},
+  number={4},
+  pages={603--619},
+  year={1985}
+}
+
+@article{myers2002adsorption,
+  title={Adsorption in porous materials at high pressure: theory and experiment},
+  author={Myers, AL and Monson, PA},
+  journal={Langmuir},
+  volume={18},
+  number={26},
+  pages={10261--10273},
+  year={2002},
+  publisher={ACS Publications}
+}
+
+
+
+@article{mason2014evaluating,
+  title={Evaluating metal--organic frameworks for natural gas storage},
+  author={Mason, Jarad A and Veenstra, Mike and Long, Jeffrey R},
+  journal={Chemical Science},
+  volume={5},
+  number={1},
+  pages={32--51},
+  year={2014},
+  publisher={Royal Society of Chemistry}
+}
+
+%HKUST-1
+@article{cavenati2008metal,
+  title={Metal organic framework adsorbent for biogas upgrading},
+  author={Cavenati, Simone and Grande, Carlos A and Rodrigues, Alírio E and Kiener, Christoph and M\"uller, Ulrich},
+  journal={Industrial \& Engineering Chemistry Research},
+  volume={47},
+  number={16},
+  pages={6333--6335},
+  year={2008},
+  publisher={ACS Publications}
+}
+
+@article{wiersum2013adsorbent,
+  title={An adsorbent performance indicator as a first step evaluation of novel sorbents for gas separations: application to metal--organic frameworks},
+  author={Wiersum, Andrew D and Chang, Jong-San and Serre, Christian and Llewellyn, Philip L},
+  journal={Langmuir},
+  volume={29},
+  number={10},
+  pages={3301--3309},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@article{moellmer2011high,
+  title={High pressure adsorption of hydrogen, nitrogen, carbon dioxide and methane on the metal--organic framework HKUST-1},
+  author={Moellmer, J and Moeller, A and Dreisbach, F and Glaeser, R and Staudt, R},
+  journal={Microporous and Mesoporous Materials},
+  volume={138},
+  number={1},
+  pages={140--148},
+  year={2011},
+  publisher={Elsevier}
+}
+@article{senkovska2008high,
+  title={High pressure methane adsorption in the metal-organic frameworks Cu 3 (btc) 2, Zn 2 (bdc) 2 dabco, and Cr 3 F (H 2 O) 2 O (bdc) 3},
+  author={Senkovska, Irena and Kaskel, Stefan},
+  journal={Microporous and Mesoporous Materials},
+  volume={112},
+  number={1},
+  pages={108--115},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{chowdhury2012adsorption,
+  title={Adsorption of CO, CO2 and CH4 on Cu-BTC and MIL-101 metal organic frameworks: Effect of open metal sites and adsorbate polarity},
+  author={Chowdhury, Pradip and Mekala, Samuel and Dreisbach, Frieder and Gumma, Sasidhar},
+  journal={Microporous and Mesoporous Materials},
+  volume={152},
+  pages={246--252},
+  year={2012},
+  publisher={Elsevier}
+}
+
+%9 experimental mofs
+@article{park2010post,
+  title={Post-Synthetic Reversible Incorporation of Organic Linkers into Porous Metal--Organic Frameworks through Single-Crystal-to-Single-Crystal Transformations and Modification of Gas-Sorption Properties},
+  author={Park, Hye Jeong and Cheon, Young Eun and Suh, Myunghyun Paik},
+  journal={Chemistry-A European Journal},
+  volume={16},
+  number={38},
+  pages={11662--11669},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{grunker2011highly,
+  title={A highly porous flexible metal--organic framework with corundum topology},
+  author={Gr{\"u}nker, Ronny and Senkovska, Irena and Biedermann, Ralf and Klein, Nicole and Lohe, Martin R and M{\"u}ller, Philipp and Kaskel, Stefan},
+  journal={Chemical Communications},
+  volume={47},
+  number={1},
+  pages={490--492},
+  year={2011},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{prasad2010high,
+  title={High gas sorption and metal-ion exchange of microporous metal--organic frameworks with incorporated imide groups},
+  author={Prasad, Thazhe Kootteri and Hong, Dae Ho and Suh, Myunghyun Paik},
+  journal={Chemistry--A European Journal},
+  volume={16},
+  number={47},
+  pages={14043--14050},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{he2013low,
+  title={Low-energy regeneration and high productivity in a lanthanide--hexacarboxylate framework for high-pressure CO 2--CH 4--H 2 separation},
+  author={He, Yabing and Furukawa, Hiroyasu and Wu, Chuande and O'Keeffe, Michael and Krishna, Rajamani and Chen, Banglin},
+  journal={Chemical Communications},
+  volume={49},
+  number={60},
+  pages={6773--6775},
+  year={2013},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{he2012high,
+  title={High separation capacity and selectivity of C2 hydrocarbons over methane within a microporous metal--organic framework at room temperature},
+  author={He, Yabing and Zhang, Zhangjing and Xiang, Shengchang and Wu, Hui and Fronczek, Frank R and Zhou, Wei and Krishna, Rajamani and O'Keeffe, Michael and Chen, Banglin},
+  journal={Chemistry--A European Journal},
+  volume={18},
+  number={7},
+  pages={1901--1904},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@article{zhao2010nbo,
+  title={A NbO-type metal--organic framework derived from a polyyne-coupled di-isophthalate linker formed in situ},
+  author={Zhao, Dan and Yuan, Daqiang and Yakovenko, Andrey and Zhou, Hong-Cai},
+  journal={Chemical Communications},
+  volume={46},
+  number={23},
+  pages={4196--4198},
+  year={2010},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{yuan2010isoreticular,
+  title={An isoreticular series of metal--organic frameworks with dendritic hexacarboxylate ligands and exceptionally high gas-uptake capacity},
+  author={Yuan, Daqiang and Zhao, Dan and Sun, Daofeng and Zhou, Hong-Cai},
+  journal={Angewandte Chemie International Edition},
+  volume={49},
+  number={31},
+  pages={5357--5361},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{guo2011metal,
+  title={A metal--organic framework with optimized open metal sites and pore spaces for high methane storage at room temperature},
+  author={Guo, Zhiyong and Wu, Hui and Srinivas, Gadipelli and Zhou, Yaming and Xiang, Shengchang and Chen, Zhenxia and Yang, Yongtai and Zhou, Wei and O'Keeffe, Michael and Chen, Banglin},
+  journal={Angewandte Chemie International Edition},
+  volume={50},
+  number={14},
+  pages={3178--3181},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{wilmer2013gram,
+  title={Gram-scale, high-yield synthesis of a robust metal--organic framework for storing methane and other gases},
+  author={Wilmer, Christopher E and Farha, Omar K and Yildirim, Taner and Eryazici, Ibrahim and Krungleviciute, Vaiva and Sarjeant, Amy A and Snurr, Randall Q and Hupp, Joseph T},
+  journal={Energy \& Environmental Science},
+  volume={6},
+  number={4},
+  pages={1158--1163},
+  year={2013},
+  publisher={Royal Society of Chemistry}
+}
+
+%other mofs
+@article{wright2000cation,
+  title={Cation-directed syntheses of novel zeolite-like metalloaluminophosphates STA-6 and STA-7 in the presence of azamacrocycle templates},
+  author={Wright, Paul A and Maple, Martin J and Slawin, Alexandra MZ and Patinec, V{\'e}ronique and Aitken, R Alan and Welsh, Simon and Cox, Paul A},
+  journal={Journal of the Chemical Society, Dalton Transactions},
+  number={8},
+  pages={1243--1248},
+  year={2000},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{heine2013sar,
+  title={In (SAr) 3 as a building block for 3D and helical coordination polymers},
+  author={Heine, Johanna and Ho{\l}y\'nska, Ma{\l}gorzata and Reuter, Marco and Haas, Benedikt and Chatterjee, Sangam and Koch, Martin and Gries, Katharina I and Volz, Kerstin and Dehnen, Stefanie},
+  journal={Crystal Growth \& Design},
+  volume={13},
+  number={3},
+  pages={1252--1259},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@article{park2010post,
+  title={Post-synthetic reversible incorporation of organic linkers into porous metal--organic frameworks through single-crystal-to-single-crystal transformations and Modification of Gas-Sorption Properties},
+  author={Park, Hye Jeong and Cheon, Young Eun and Suh, Myunghyun Paik},
+  journal={Chemistry-A European Journal},
+  volume={16},
+  number={38},
+  pages={11662--11669},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{kim2012high,
+  title={High-throughput characterization of porous materials using graphics processing units},
+  author={Kim, Jihan and Martin, Richard L and R\"ubel, Oliver and Haranczyk, Maciej and Smit, Berend},
+  journal={Journal of chemical theory and computation},
+  volume={8},
+  number={5},
+  pages={1684--1693},
+  year={2012},
+  publisher={ACS Publications}
+}
+
+@article{haranczyk2010automatic,
+  title={Automatic structure analysis in high-throughput characterization of porous materials},
+  author={Haranczyk, Maciej and Sethian, James A},
+  journal={Journal of chemical theory and computation},
+  volume={6},
+  number={11},
+  pages={3472--3480},
+  year={2010},
+  publisher={ACS Publications}
+}
+
+@article{martin2014silico,
+  title={In silico design of porous polymer networks: high-throughput screening for methane storage materials},
+  author={Martin, Richard L and Simon, Cory M and Smit, Berend and Haranczyk, Maciej},
+  journal={Journal of the American Chemical Society},
+  volume={136},
+  number={13},
+  pages={5006--5022},
+  year={2014},
+  publisher={ACS Publications}
+}
+
+@article{sing2001use,
+  title={The use of nitrogen adsorption for the characterisation of porous materials},
+  author={Sing, Kenneth},
+  journal={Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+  volume={187},
+  pages={3--9},
+  year={2001},
+  publisher={Elsevier}
+}
+
+@article{rouquerol2007bet,
+  title={Is the BET equation applicable to microporous adsorbents?},
+  author={Rouquerol, J and Llewellyn, P and Rouquerol, F},
+  journal={Studies in surface science and catalysis},
+  volume={160},
+  pages={49--56},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{gurvich1915,
+  author={Gurvich, L},
+  journal={Journal of the Physical Chemical Society of Russia},
+  volume={47},
+  pages={49--56},
+  year={1915},
+}
+
+@article{thornton2016porosity,
+  title={Porosity in metal--organic framework glasses},
+  author={Thornton, AW and Jelfs, KE and Konstas, K and Doherty, CM and Hill, AJ and Cheetham, AK and Bennett, TD},
+  journal={Chemical Communications},
+  volume={52},
+  number={19},
+  pages={3750--3753},
+  year={2016},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{chokbunpiam2016gate,
+  title={Gate opening, diffusion, and adsorption of CO2 and N2 mixtures in ZIF-8},
+  author={Chokbunpiam, T and Fritzsche, S and Chmelik, C and Caro, J and Janke, W and Hannongbua, S},
+  journal={The Journal of Physical Chemistry C},
+  volume={120},
+  number={41},
+  pages={23458--23468},
+  year={2016},
+  publisher={ACS Publications}
+}
+
